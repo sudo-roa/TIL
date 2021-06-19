@@ -4,5 +4,5 @@
 
 ## フォルダの構成
 
-![TIL-RepositoryStructure](./RepositoryStructure "RepositoryStructure")
-![TILのリポジトリ構成](./RepositoryStructureJ "Repository構成")
+![TIL-RepositoryStructure](./RepositoryStructure.png "RepositoryStructure")
+![TILのリポジトリ構成](./RepositoryStructureJ.png "Repository構成")
