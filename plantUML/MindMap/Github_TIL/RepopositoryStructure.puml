@@ -1,0 +1,36 @@
+@startmindmap RepositoryStructure
+
+<style>
+mindmapDiagram {
+  .green {
+    BackgroundColor #90ee90
+  }
+  .rose {
+    BackgroundColor #FFBBCC
+  }
+}
+</style>
+
+* TIL(Today I Learned)
+** Elixir
+*** FizzBuzz <<rose>>
+*** hello <<rose>>
+** Github
+*** special_files
+**** aboutREADME.md <<green>>
+**** about.gitignore <<green>>
+**** aboutLicense <<green>>
+** JavaScript
+
+** ShellScript
+*** progressbar <<rose>>
+
+
+
+legend top left
+    yellow : repository-name
+    green : code-file
+    rose : markdown-file
+endlegend
+
+@endmindmap

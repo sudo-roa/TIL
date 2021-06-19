@@ -1,0 +1,36 @@
+@startmindmap RepositoryStructureJ
+
+<style>
+mindmapDiagram {
+  .green {
+    BackgroundColor #90ee90
+  }
+  .rose {
+    BackgroundColor #FFBBCC
+  }
+}
+</style>
+
+* TIL(Today I Learned)
+** Elixir
+*** FizzBuzz <<rose>>
+*** hello <<rose>>
+** Github
+*** 特別なファイル
+**** README.mdに関して <<green>>
+**** .gitignoreに関して <<green>>
+**** Licenseに関して <<green>>
+** JavaScript
+
+** ShellScript
+*** progressbar <<rose>>
+
+
+
+legend top left
+    黄色 : リポジトリの名前
+    緑色 : プログラムのファイル
+    ピンク : マークダウンで書かれたファイル
+endlegend
+
+@endmindmap
