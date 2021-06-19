@@ -1,5 +1,4 @@
 @startmindmap RepositoryStructure
-
 <style>
 mindmapDiagram {
   .green {
@@ -25,7 +24,11 @@ mindmapDiagram {
 ** ShellScript
 *** progressbar <<rose>>
 
-
+** plantUML
+*** MindMap
+**** Github_TIL
+***** RepositoryStructure <<green>>
+***** RepositoryStructureJ <<green>>
 
 legend top left
     yellow : repository-name

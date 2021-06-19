@@ -25,6 +25,11 @@ mindmapDiagram {
 ** ShellScript
 *** progressbar <<rose>>
 
+** plantUML
+*** マインドマップ
+**** Github_TIL
+***** リポジトリ構造(英語) <<green>>
+***** リポジトリ構造(日本語) <<green>>
 
 
 legend top left
