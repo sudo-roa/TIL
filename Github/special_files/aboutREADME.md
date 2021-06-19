@@ -1,8 +1,8 @@
-# README.md
+# aboutREADME.md
 
 README.mdファイルがどのような役割を持つか
 
-## about README.md
+## README.md ファイルとは
 
 README.mdが含まれているリポジトリがどのようなものかを記述した説明書のようなもの。
 Markdown(マークダウン)と呼ばれる軽量マークアップ言語を利用して記述する。
