@@ -11,24 +11,34 @@ mindmapDiagram {
 </style>
 
 * TIL(Today I Learned)
+
 ** Elixir
-*** FizzBuzz <<rose>>
-*** hello <<rose>>
+*** Examples
+**** FizzBuzz <<green>>
+**** hello <<green>>
+
 ** Github
 *** special_files
-**** aboutREADME.md <<green>>
-**** about.gitignore <<green>>
-**** aboutLicense <<green>>
+**** aboutREADME.md <<rose>>
+**** about.gitignore <<rose>>
+**** aboutLicense <<rose>>
+
 ** JavaScript
+*** DOM
+**** Document
+***** document_querySelector <<rose>>
+**** Element
 
 ** ShellScript
-*** progressbar <<rose>>
+*** Examples
+**** progressbar <<green>>
+**** generalClone <<green>>
 
 ** plantUML
 *** MindMap
 **** Github_TIL
-***** RepositoryStructure <<green>>
-***** RepositoryStructureJ <<green>>
+***** RepositoryStructure <<rose>>
+***** RepositoryStructureJ <<rose>>
 
 legend top left
     yellow : repository-name

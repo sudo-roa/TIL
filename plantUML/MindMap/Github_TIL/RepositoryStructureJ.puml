@@ -12,18 +12,28 @@ mindmapDiagram {
 </style>
 
 * TIL(Today I Learned)
+
 ** Elixir
-*** FizzBuzz <<rose>>
-*** hello <<rose>>
+*** コード例
+**** FizzBuzz <<green>>
+**** hello <<green>>
+
 ** Github
 *** 特別なファイル
-**** README.mdに関して <<green>>
-**** .gitignoreに関して <<green>>
-**** Licenseに関して <<green>>
+**** README.mdに関して <<rose>>
+**** .gitignoreに関して <<rose>>
+**** Licenseに関して <<rose>>
+
 ** JavaScript
+*** DOM
+**** Document
+***** HTML等の要素の操作 <<rose>>
+**** Element
 
 ** ShellScript
-*** progressbar <<rose>>
+*** コード例
+**** genaralClone <<green>>
+**** progressbar <<green>>
 
 ** plantUML
 *** マインドマップ
