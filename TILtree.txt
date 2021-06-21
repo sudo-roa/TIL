@@ -1,0 +1,41 @@
+.
+├── Elixir
+│   ├── Examples
+│   │   ├── FizzBuzz.exs
+│   │   ├── README.md
+│   │   └── hello.exs
+│   └── README.md
+├── Github
+│   ├── READNE.md
+│   └── special_files
+│       ├── READNE.md
+│       └── aboutREADME.md
+├── JavaScript
+│   ├── DOM
+│   │   ├── Document
+│   │   │   ├── READNE.md
+│   │   │   └── document_querySelector.md
+│   │   ├── Element
+│   │   │   └── READNE.md
+│   │   └── READNE.md
+│   └── README.md
+├── README.md
+├── RepositoryStructure.png
+├── RepositoryStructureJ.png
+├── ShellScript
+│   ├── Examples
+│   │   ├── README.md
+│   │   ├── generalClone.sh
+│   │   └── progressbar.sh
+│   └── README.md
+├── TILtree.txt
+└── plantUML
+    ├── MindMap
+    │   ├── Github_TIL
+    │   │   ├── READNE.md
+    │   │   ├── RepositoryStructure.puml
+    │   │   └── RepositoryStructureJ.puml
+    │   └── READNE.md
+    └── READNE.md
+
+13 directories, 25 files
