@@ -1,8 +1,8 @@
-# generalClone.md
+# generalClone
 
 任意のgithubリポジトリをコマンドラインからクローンできる
 
-## generalClone.md
+## generalClone.sh
 
 - 任意のgithubリポジトリをコマンドラインからクローンするシェルスクリプト
 - `git clone https://github.com/hogehoge/hugahugahuga.git` 様に打たなくて済む
