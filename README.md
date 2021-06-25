@@ -6,8 +6,8 @@
 ## TIL更新のための作業メモ（自分用）
 1. TILリポジトリのクローン（cloneTIL.shの実行）
 2. 勉強した内容の追加（ファイルの追加）
-3. ~~TILtree.txtの更新 ~~4でまとめて更新できるように変更
-<br>~~```.../TIL $ tree > TILtree.txt```~~
+3. ~~TILtree.txtの更新 ~~　4でまとめて更新できるように変更
+<br>　~~```.../TIL $ tree > TILtree.txt```~~
 4. RepositoryStructure.png, RepositoryStructureJ.pngの更新
 <br>```.../plantUML/MindMap/Github_TIL $ ./updateRepoSt.sh```
 
