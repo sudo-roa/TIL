@@ -1,4 +1,4 @@
-.
+../../../
 ├── Elixir
 │   ├── Examples
 │   │   ├── FizzBuzz.exs
@@ -25,17 +25,21 @@
 ├── ShellScript
 │   ├── Examples
 │   │   ├── README.md
+│   │   ├── generalClone.md
 │   │   ├── generalClone.sh
+│   │   ├── generalClone1.gif
+│   │   ├── generalClone2.gif
 │   │   └── progressbar.sh
 │   └── README.md
-├── TILtree.txt
 └── plantUML
     ├── MindMap
     │   ├── Github_TIL
     │   │   ├── READNE.md
     │   │   ├── RepositoryStructure.puml
-    │   │   └── RepositoryStructureJ.puml
+    │   │   ├── RepositoryStructureJ.puml
+    │   │   ├── TILtree.txt
+    │   │   └── updateRepoSt.sh
     │   └── READNE.md
     └── READNE.md
 
-13 directories, 25 files
+13 directories, 29 files
