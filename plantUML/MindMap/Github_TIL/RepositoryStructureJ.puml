@@ -14,6 +14,8 @@ mindmapDiagram {
 * TIL(Today I Learned)
 
 ** C
+*** 開発環境
+*** コード例
 
 ** Elixir
 *** コード例
@@ -36,6 +38,8 @@ mindmapDiagram {
 *** コード例
 **** genaralClone <<green>>
 **** progressbar <<green>>
+
+** VirtualBox(仮想マシン)
 
 ** plantUML
 *** マインドマップ

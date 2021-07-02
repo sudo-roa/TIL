@@ -13,6 +13,8 @@ mindmapDiagram {
 * TIL(Today I Learned)
 
 ** C
+*** DevelopmentEnvironment
+*** Examples
 
 ** Elixir
 *** Examples
@@ -35,6 +37,8 @@ mindmapDiagram {
 *** Examples
 **** progressbar <<green>>
 **** generalClone <<green>>
+
+** VirtualBox
 
 ** plantUML
 *** MindMap
