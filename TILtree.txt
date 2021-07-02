@@ -2,6 +2,8 @@
 ├── C
 │   ├── DevelopmentEnvironment
 │   │   └── READNE.md
+│   ├── Examples
+│   │   └── README.md
 │   └── READNE.md
 ├── Elixir
 │   ├── Examples
@@ -39,6 +41,21 @@
 ├── TILtree.txt
 ├── VirtualBox
 │   └── README.md
+├── paiza
+│   ├── LevelUpProblemCollection
+│   │   ├── READNE.md
+│   │   └── SkillCheckSampleProblem
+│   │       ├── READNE.md
+│   │       ├── question1
+│   │       │   ├── a.out
+│   │       │   └── question1.c
+│   │       ├── question2
+│   │       │   ├── a.out
+│   │       │   └── question2.c
+│   │       └── question3
+│   │           ├── a.out
+│   │           └── question3.c
+│   └── README.md
 └── plantUML
     ├── MindMap
     │   ├── Github_TIL
@@ -50,4 +67,4 @@
     │   └── READNE.md
     └── READNE.md
 
-16 directories, 34 files
+23 directories, 44 files
