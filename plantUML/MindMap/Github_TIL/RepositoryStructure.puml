@@ -44,8 +44,15 @@ mindmapDiagram {
 *** LevelUpProblemCollection
 **** skillCheckSampleProblem
 ***** question1
+****** question1.c <<rose>>
 ***** question2
+****** question2.c <<rose>>
 ***** question3
+****** question3.c <<rose>>
+***** question4
+****** question4.c <<rose>>
+***** question5
+****** question5.c <<rose>>
 
 ** plantUML
 *** MindMap

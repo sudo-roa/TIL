@@ -45,15 +45,21 @@ mindmapDiagram {
 *** レベルアップ問題集
 **** スキルチェックサンプル問題
 ***** 問題1
+****** question1.c <<rose>>
 ***** 問題2
+****** question2.c <<rose>>
 ***** 問題3
+****** question3.c <<rose>>
+***** 問題4
+****** question4.c <<rose>>
+***** 問題5
+****** question5.c <<rose>>
 
 ** plantUML
 *** マインドマップ
 **** Github_TIL
 ***** リポジトリ構造(英語) <<rose>>
 ***** リポジトリ構造(日本語) <<rose>>
-
 
 legend top left
     黄色 : リポジトリの名前
