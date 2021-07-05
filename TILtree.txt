@@ -47,30 +47,47 @@
 │   │   └── SkillCheckSampleProblem
 │   │       ├── READNE.md
 │   │       ├── question1
+│   │       │   ├── README.md
 │   │       │   ├── a.out
 │   │       │   └── question1.c
 │   │       ├── question2
+│   │       │   ├── README.md
 │   │       │   ├── a.out
 │   │       │   └── question2.c
 │   │       ├── question3
+│   │       │   ├── README.md
 │   │       │   ├── a.out
 │   │       │   └── question3.c
 │   │       ├── question4
+│   │       │   ├── README.md
 │   │       │   ├── a.out
 │   │       │   └── question4.c
 │   │       └── question5
+│   │           ├── README.md
 │   │           ├── a.out
 │   │           └── question5.c
 │   └── README.md
-└── plantUML
-    ├── MindMap
-    │   ├── Github_TIL
-    │   │   ├── READNE.md
-    │   │   ├── RepositoryStructure.puml
-    │   │   ├── RepositoryStructureJ.puml
-    │   │   ├── TILtree.txt
-    │   │   └── updateRepoSt.sh
-    │   └── READNE.md
-    └── READNE.md
+├── plantUML
+│   ├── MindMap
+│   │   ├── Github_TIL
+│   │   │   ├── READNE.md
+│   │   │   ├── RepositoryStructure.puml
+│   │   │   ├── RepositoryStructureJ.puml
+│   │   │   ├── TILtree.txt
+│   │   │   └── updateRepoSt.sh
+│   │   └── READNE.md
+│   └── READNE.md
+└── rentalServer
+    ├── README.md
+    └── sakuraVPS
+        ├── README.md
+        └── images
+            ├── sakuraVPS1.png
+            ├── sakuraVPS2.png
+            ├── sakuraVPS3.png
+            ├── sakuraVPS4.png
+            ├── sakuraVPS5.png
+            ├── sakuraVPS6.png
+            └── sakuraVPS7.png
 
-25 directories, 48 files
+28 directories, 62 files

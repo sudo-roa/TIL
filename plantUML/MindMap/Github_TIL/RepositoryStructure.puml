@@ -60,6 +60,11 @@ mindmapDiagram {
 ***** RepositoryStructure <<rose>>
 ***** RepositoryStructureJ <<rose>>
 
+** rentalServer
+*** sakuraVPS
+**** images
+
+
 legend top left
     yellow : repository-name
     green : code-file
