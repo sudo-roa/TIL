@@ -15,7 +15,7 @@
 
 ## TIL内フォルダの構成
 
-|<img src="./RepositoryStructure.png" width="90%">|<img src="./RepositoryStructureJ.png" width="90%">|
+|<img src="./RepositoryStructure.png" width="100%">|<img src="./RepositoryStructureJ.png" width="100%">|
 |:---:|:---:|
 |Repository Structure|リポジトリ構成|
 
