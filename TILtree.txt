@@ -26,6 +26,12 @@
 │   │   │   └── READNE.md
 │   │   └── READNE.md
 │   └── README.md
+├── Linux
+│   ├── README.md
+│   └── ubuntu20.04
+│       ├── OS_check.md
+│       ├── README.md
+│       └── init_setting.md
 ├── README.md
 ├── RepositoryStructure.png
 ├── RepositoryStructureJ.png
@@ -80,6 +86,7 @@
 └── rentalServer
     ├── README.md
     └── sakuraVPS
+        ├── CreateServer.md
         ├── README.md
         └── images
             ├── sakuraVPS1.png
@@ -90,4 +97,4 @@
             ├── sakuraVPS6.png
             └── sakuraVPS7.png
 
-28 directories, 62 files
+30 directories, 67 files

@@ -34,6 +34,11 @@ mindmapDiagram {
 ***** HTML等の要素の操作 <<rose>>
 **** Element
 
+** Linux
+*** ubuntu20.04
+**** OSの確認 <<rose>>
+**** 最初の設定 <<rose>>
+
 ** ShellScript
 *** コード例
 **** genaralClone <<green>>

@@ -23,7 +23,7 @@ mindmapDiagram {
 
 ** Github
 *** special_files
-**** aboutREADME.md <<rose>>
+**** aboutREADME <<rose>>
 **** about.gitignore <<rose>>
 **** aboutLicense <<rose>>
 
@@ -32,6 +32,11 @@ mindmapDiagram {
 **** Document
 ***** document_querySelector <<rose>>
 **** Element
+
+** Linux
+*** ubuntu20.04
+**** OS_check <<rose>>
+**** init_setting <<rose>>
 
 ** ShellScript
 *** Examples
