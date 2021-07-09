@@ -21,11 +21,12 @@ mindmapDiagram {
 **** FizzBuzz <<green>>
 **** hello <<green>>
 
-** Github
-*** special_files
-**** aboutREADME <<rose>>
-**** about.gitignore <<rose>>
-**** aboutLicense <<rose>>
+** Git
+*** Github
+**** special_files
+***** aboutREADME <<rose>>
+***** about.gitignore <<rose>>
+***** aboutLicense <<rose>>
 
 ** JavaScript
 *** DOM

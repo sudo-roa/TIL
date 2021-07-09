@@ -11,12 +11,13 @@
 │   │   ├── README.md
 │   │   └── hello.exs
 │   └── README.md
-├── Github
-│   ├── READNE.md
-│   └── special_files
+├── Git
+│   └── Github
 │       ├── READNE.md
-│       ├── aboutREADME.md
-│       └── about_gitignore.md
+│       └── special_files
+│           ├── READNE.md
+│           ├── aboutREADME.md
+│           └── about_gitignore.md
 ├── JavaScript
 │   ├── DOM
 │   │   ├── Document
@@ -26,6 +27,7 @@
 │   │   │   └── READNE.md
 │   │   └── READNE.md
 │   └── README.md
+├── LICENSE
 ├── Linux
 │   ├── README.md
 │   └── ubuntu20.04
@@ -97,4 +99,4 @@
             ├── sakuraVPS6.png
             └── sakuraVPS7.png
 
-30 directories, 67 files
+31 directories, 68 files
