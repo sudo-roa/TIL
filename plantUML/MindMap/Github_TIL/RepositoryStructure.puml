@@ -41,8 +41,8 @@ mindmapDiagram {
 
 ** ShellScript
 *** Abstract
-**** TypeOfShell
-**** aboutShellAndShellScript
+**** TypeOfShell <<rose>>
+**** aboutShellAndShellScript <<rose>>
 *** Examples
 **** progressbar <<green>>
 **** generalClone <<green>>
