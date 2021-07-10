@@ -38,6 +38,10 @@
 ├── RepositoryStructure.png
 ├── RepositoryStructureJ.png
 ├── ShellScript
+│   ├── Abstract
+│   │   ├── README.md
+│   │   ├── TypeOfShell.md
+│   │   └── aboutShellAndShellScript.md
 │   ├── Examples
 │   │   ├── README.md
 │   │   ├── generalClone.md
@@ -99,4 +103,4 @@
             ├── sakuraVPS6.png
             └── sakuraVPS7.png
 
-31 directories, 68 files
+32 directories, 71 files

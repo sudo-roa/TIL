@@ -40,6 +40,9 @@ mindmapDiagram {
 **** init_setting <<rose>>
 
 ** ShellScript
+*** Abstract
+**** TypeOfShell
+**** aboutShellAndShellScript
 *** Examples
 **** progressbar <<green>>
 **** generalClone <<green>>

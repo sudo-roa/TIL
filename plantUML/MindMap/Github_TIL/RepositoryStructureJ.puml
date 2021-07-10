@@ -41,6 +41,9 @@ mindmapDiagram {
 **** 最初の設定 <<rose>>
 
 ** ShellScript
+*** 概要
+**** シェルの種類
+**** シェルとシェルスクリプトについて
 *** コード例
 **** genaralClone <<green>>
 **** progressbar <<green>>
