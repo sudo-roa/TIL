@@ -5,46 +5,65 @@
 手元のパソコンのOSをインストールした後、VM等でOSをインストールした後
 
 ```
+#インストールしているパッケージの更新
 $ sudo apt update
 $ sudo apt upgrade
 
+#新たに追加
+#openssh-server
 $ sudo apt install openssh-server
 $ sudo systemctl status sshd
 $ sudo systemctl is-enable sshd
 $ sudo systemctl enable sshd
+
+#ifconfig
 $ sudo apt install net-tools
+
+# vim
 $ sudo apt install vim
+
+#locate
 $ sudo apt install mlocate
+
+#screen
 $ sudo apt install screen
+
+#apache
 $ sudo apt install httpdirfs apache2
 $ sudo systemctl status apache2
 $ sudo systemctl is-enabled apache2
 $ sudo systemctl disable apache2
 $ sudo systemctl is-enabled apache2
 
-VScode download file
+#VScode
 $ sudo apt install ./code_1.57.0-1623259737_amd64.deb
 $ code -v
 
+#git
 $ sudo apt install git
 $ git --version
 
-VirtualBox download file
+#VirtualBox
 $ sudo apt install ./virtualbox-6.1_6.1.22-144080~Ubuntu~eoan_amd64.deb
 $ VBoxManage --version
 $ sudo gpasswd -a YOUR_USERNAME vboxusers
 
+#gparted
 $ sudo apt install gparted
 
-use remote desktop by vnc-server
+#remote desktop by vnc-server
 $ gsettings set org.gnome.Vino require-encryption false
 $ sudo ufw status
 
-
+#plantuml
 $ sudo apt install plantuml
 $ sudo apt install openjdk-16-jre
 $ sudo apt install doxygen
+
+#tree
 $ sudo apt install tree
+
+#traceroute
 $ sudo apt install traceroute
 
 ```
