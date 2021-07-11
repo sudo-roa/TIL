@@ -1,5 +1,7 @@
 # init_setting
 
+自身がOSインストール後に行う設定について
+
 ## OSインストール後によくする設定（ろあ版）
 
 手元のパソコンのOSをインストールした後、VM等でOSをインストールした後
@@ -69,10 +71,12 @@ $ sudo apt install traceroute
 ```
 
 
-さくらVPSの場合
+## さくらVPSの場合
+ユーザ名をデフォルトから変更し、鍵認証をしたクライアントしかssh接続できないようにする。
+<br>さくらVPSで最初に登録されているユーザはubuntu20.04ならubuntu
+<br>新たなユーザを作成して、sudoグループに入れたのち、初期ユーザは消去するべき（セキュリティ上）
+
 ```
-# 最初に登録されているユーザはubuntu20.04ならubuntu
-# 新たなユーザを作成して、sudoグループに入れたのち、初期ユーザは消去するべき（セキュリティ上）
 $ sudo adduser your-username
 $ gpasswd -a user_name sudo
 $ sudo userdel -r init-username
@@ -87,4 +91,57 @@ $ diff sshd_config.origin sshd_iconfig
 >     PermitRootLogin no
 > 
 $ sudo shutdown -r now
+```
+
+<br>sshkeyの追加
+<br>まず下記のどちらかを実行
+
+```
+#.sshがない
+$ install -m 0700 -d ~/.ssh 
+#.sshがある
+$ chmod 700 .ssh
+```
+
+<br>公開鍵の内容をコピペ
+
+```
+$ cd ~/.ssh
+$ vim authorized_keys　 
+$ chmod 600 authorized_keys 
+```
+
+<br>パスワード認証の無効化
+
+```
+# /etc/ssh/sshd_configを変更
+$ vim ssh_config
+    PasswordAuthentication no
+$ diff sshd_config.origin sshd_iconfig
+> # add 20210711
+> PasswordAuthentication no
+> 
+> # add 20210704
+> PermitRootLogin no
+
+$ sudo systemctl restart sshd
+```
+
+<br>ファイアウォールの設定
+
+```
+$ sudo ufw status
+status: inactive
+$ sudo ufw enable
+
+$ sudo ufw allow 22
+Skipping adding existing rule
+Skipping adding existing rule (v6)
+$ sudo ufw status
+Status: active
+
+To                         Action      From
+--                         ------      ----
+22                         ALLOW       Anywhere                  
+22 (v6)                    ALLOW       Anywhere (v6) 
 ```
