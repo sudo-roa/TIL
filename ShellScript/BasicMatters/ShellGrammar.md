@@ -54,6 +54,8 @@
 
 <br>※Linux（bash）では、算術式のfor文, select文, 算術式の評価, 条件式の評価も、文法上複合コマンドと解釈される
 
+[複合コマンドの詳細](./CompoundCommand.md)
+
 ## コマンド
 
 <br>基本事項
@@ -139,3 +141,8 @@ ls -l
 ;
 cp file1 file2
 ```
+[&&リストと||リストについて](./List.md)
+
+
+## Author
+[sudo-roa](https://github.com/sudo-roa)
