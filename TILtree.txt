@@ -42,6 +42,16 @@
 │   │   ├── README.md
 │   │   ├── TypeOfShell.md
 │   │   └── aboutShellAndShellScript.md
+│   ├── BasicMatters
+│   │   ├── BasicMatterOfShellScript.md
+│   │   ├── CompoundCommand.md
+│   │   ├── CreateShellScript.md
+│   │   ├── List.md
+│   │   ├── README.md
+│   │   ├── ShellGrammar.md
+│   │   └── images
+│   │       ├── CompoundCommand.png
+│   │       └── ShellGrammar.png
 │   ├── Examples
 │   │   ├── README.md
 │   │   ├── generalClone.md
@@ -103,4 +113,4 @@
             ├── sakuraVPS6.png
             └── sakuraVPS7.png
 
-32 directories, 71 files
+34 directories, 79 files

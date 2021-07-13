@@ -1,5 +1,4 @@
 @startmindmap RepositoryStructureJ
-
 <style>
 mindmapDiagram {
   .green {
@@ -44,6 +43,12 @@ mindmapDiagram {
 *** 概要
 **** シェルの種類 <<rose>>
 **** シェルとシェルスクリプトについて <<rose>>
+*** 基本事項
+**** シェルスクリプトの基本事項 <<rose>>
+**** 複合コマンドの詳細 <<rose>>
+**** シェルスクリプトの作成 <<rose>>
+**** リストの詳細 <<rose>>
+**** シェルの文法 <<rose>>
 *** コード例
 **** genaralClone <<green>>
 **** progressbar <<green>>
@@ -54,25 +59,26 @@ mindmapDiagram {
 *** レベルアップ問題集
 **** スキルチェックサンプル問題
 ***** 問題1
-****** question1.c <<rose>>
+****** question1.c <<green>>
 ***** 問題2
-****** question2.c <<rose>>
+****** question2.c <<green>>
 ***** 問題3
-****** question3.c <<rose>>
+****** question3.c <<green>>
 ***** 問題4
-****** question4.c <<rose>>
+****** question4.c <<green>>
 ***** 問題5
-****** question5.c <<rose>>
+****** question5.c <<green>>
 
 ** plantUML
 *** マインドマップ
 **** Github_TIL
-***** リポジトリ構造(英語) <<rose>>
-***** リポジトリ構造(日本語) <<rose>>
+***** リポジトリ構造(英語) <<green>>
+***** リポジトリ構造(日本語) <<green>>
 
 ** レンタルサーバー
 *** さくらVPS
-**** images
+**** サーバの作成(新規申込) <<rose>>
+
 
 legend top left
     黄色 : リポジトリの名前

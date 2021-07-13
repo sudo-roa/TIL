@@ -43,6 +43,12 @@ mindmapDiagram {
 *** Abstract
 **** TypeOfShell <<rose>>
 **** aboutShellAndShellScript <<rose>>
+*** BasicMatters
+**** BasicMatterOfShellScript<<rose>>
+**** CompoundCommand <<rose>>
+**** CreateShellScript <<rose>>
+**** List <<rose>>
+**** ShellGramma <<rose>>
 *** Examples
 **** progressbar <<green>>
 **** generalClone <<green>>
@@ -53,25 +59,25 @@ mindmapDiagram {
 *** LevelUpProblemCollection
 **** skillCheckSampleProblem
 ***** question1
-****** question1.c <<rose>>
+****** question1.c <<green>>
 ***** question2
-****** question2.c <<rose>>
+****** question2.c <<green>>
 ***** question3
-****** question3.c <<rose>>
+****** question3.c <<green>>
 ***** question4
-****** question4.c <<rose>>
+****** question4.c <<green>>
 ***** question5
-****** question5.c <<rose>>
+****** question5.c <<green>>
 
 ** plantUML
 *** MindMap
 **** Github_TIL
-***** RepositoryStructure <<rose>>
-***** RepositoryStructureJ <<rose>>
+***** RepositoryStructure <<green>>
+***** RepositoryStructureJ <<green>>
 
 ** rentalServer
 *** sakuraVPS
-**** images
+**** CreateServer <<rose>>
 
 
 legend top left
