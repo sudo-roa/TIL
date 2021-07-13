@@ -144,5 +144,3 @@ cp file1 file2
 [&&リストと||リストについて](./List.md)
 
 
-## Author
-[sudo-roa](https://github.com/sudo-roa)
