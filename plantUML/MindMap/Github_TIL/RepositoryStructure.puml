@@ -14,6 +14,7 @@ mindmapDiagram {
 
 ** C
 *** DevelopmentEnvironment
+**** forLinux <<rose>>
 *** Examples
 
 ** Elixir
@@ -39,6 +40,18 @@ mindmapDiagram {
 **** OS_check <<rose>>
 **** init_setting <<rose>>
 
+** PHP
+*** BasicMatters
+**** Calculation <<rose>>
+**** Comparison <<rose>>
+**** HowToUsePHP <<rose>>
+**** Reassignment <<rose>>
+**** Repetition <<rose>>
+**** StringOutput <<rose>>
+**** Time <<rose>>
+
+** Redmine
+
 ** ShellScript
 *** Abstract
 **** TypeOfShell <<rose>>
@@ -54,6 +67,8 @@ mindmapDiagram {
 **** generalClone <<green>>
 
 ** VirtualBox
+
+** docker
 
 ** paiza
 *** LevelUpProblemCollection

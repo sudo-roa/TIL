@@ -14,6 +14,7 @@ mindmapDiagram {
 
 ** C
 *** 開発環境
+**** Linux向け<<rose>>
 *** コード例
 
 ** Elixir
@@ -39,6 +40,18 @@ mindmapDiagram {
 **** OSの確認 <<rose>>
 **** 最初の設定 <<rose>>
 
+** PHP
+*** 基本事項
+**** 四則計算 <<rose>> 
+**** 比較演算子 <<rose>>
+**** PHPの実行方法 <<rose>>
+**** 再代入 <<rose>>
+**** 繰り返し構文 <<rose>>
+**** 文字列の出力 <<rose>>
+**** 時間 <<rose>>
+
+** redmine
+
 ** ShellScript
 *** 概要
 **** シェルの種類 <<rose>>
@@ -54,6 +67,8 @@ mindmapDiagram {
 **** progressbar <<green>>
 
 ** VirtualBox(仮想マシン)
+
+** docker
 
 ** paiza
 *** レベルアップ問題集

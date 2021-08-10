@@ -1,10 +1,11 @@
 ../../../
 ├── C
 │   ├── DevelopmentEnvironment
-│   │   └── READNE.md
+│   │   ├── README.md
+│   │   └── forLinux.md
 │   ├── Examples
 │   │   └── README.md
-│   └── READNE.md
+│   └── README.md
 ├── Elixir
 │   ├── Examples
 │   │   ├── FizzBuzz.exs
@@ -12,20 +13,21 @@
 │   │   └── hello.exs
 │   └── README.md
 ├── Git
-│   └── Github
-│       ├── READNE.md
-│       └── special_files
-│           ├── READNE.md
-│           ├── aboutREADME.md
-│           └── about_gitignore.md
+│   ├── Github
+│   │   ├── README.md
+│   │   └── special_files
+│   │       ├── README.md
+│   │       ├── aboutREADME.md
+│   │       └── about_gitignore.md
+│   └── README.md
 ├── JavaScript
 │   ├── DOM
 │   │   ├── Document
-│   │   │   ├── READNE.md
+│   │   │   ├── README.md
 │   │   │   └── document_querySelector.md
 │   │   ├── Element
-│   │   │   └── READNE.md
-│   │   └── READNE.md
+│   │   │   └── README.md
+│   │   └── README.md
 │   └── README.md
 ├── LICENSE
 ├── Linux
@@ -34,7 +36,20 @@
 │       ├── OS_check.md
 │       ├── README.md
 │       └── init_setting.md
+├── PHP
+│   ├── BasicMatters
+│   │   ├── Calculation.md
+│   │   ├── Comparison.md
+│   │   ├── HowToUsePHP.md
+│   │   ├── README.md
+│   │   ├── Reassignment.md
+│   │   ├── Repetition.md
+│   │   ├── StringOutput.md
+│   │   └── Time.md
+│   └── README.md
 ├── README.md
+├── Redmine
+│   └── README.md
 ├── RepositoryStructure.png
 ├── RepositoryStructureJ.png
 ├── ShellScript
@@ -63,11 +78,13 @@
 ├── TILtree.txt
 ├── VirtualBox
 │   └── README.md
+├── docker
+│   └── README.md
 ├── paiza
 │   ├── LevelUpProblemCollection
-│   │   ├── READNE.md
+│   │   ├── README.md
 │   │   └── SkillCheckSampleProblem
-│   │       ├── READNE.md
+│   │       ├── README.md
 │   │       ├── question1
 │   │       │   ├── README.md
 │   │       │   ├── a.out
@@ -92,13 +109,13 @@
 ├── plantUML
 │   ├── MindMap
 │   │   ├── Github_TIL
-│   │   │   ├── READNE.md
+│   │   │   ├── README.md
 │   │   │   ├── RepositoryStructure.puml
 │   │   │   ├── RepositoryStructureJ.puml
 │   │   │   ├── TILtree.txt
 │   │   │   └── updateRepoSt.sh
-│   │   └── READNE.md
-│   └── READNE.md
+│   │   └── README.md
+│   └── README.md
 └── rentalServer
     ├── README.md
     └── sakuraVPS
@@ -113,4 +130,4 @@
             ├── sakuraVPS6.png
             └── sakuraVPS7.png
 
-34 directories, 79 files
+38 directories, 92 files
