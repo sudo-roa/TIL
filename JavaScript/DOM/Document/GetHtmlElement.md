@@ -51,7 +51,7 @@
 </ul>  
 ```
 
-## document.getElementByClassName('class')
+## document.getElementByClassName('string class')
 - 特定のclassを持つ要素へのオブジェクト参照を返す
 
 ```HTML
