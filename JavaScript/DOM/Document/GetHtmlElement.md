@@ -1,4 +1,4 @@
-# document.querySelector
+# HTMLの要素情報の取得
 - HTMLから要素の情報をJavaScriptに取り込むためのメソッド
 - ParentNodeインターフェイスから継承している
 
