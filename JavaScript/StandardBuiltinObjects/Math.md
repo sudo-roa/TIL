@@ -17,6 +17,17 @@ console.log(example);
 > -3
 ```
 
+## Math.ceil()
+小数点以下を切り上げた整数を返す(負の数の場合に注意)
+```
+example = Math.floor(3.141592);
+console.log(example);
+> 4
+example = Math.floor(-3.141592);
+console.log(example);
+> -3
+```
+
 ## Math.floor()
 小数点以下を切り捨てた整数を返す(負の数の場合に注意)
 ```
