@@ -1,1 +1,1 @@
-# ubuntu20.04
+# ubuntu
