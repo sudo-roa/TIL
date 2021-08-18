@@ -48,5 +48,10 @@ oracle VirtualBoxのダウンロードからインストールまで
 
 7. finishを押してインストールを終了
 
+## 次の項目
+- [VBで仮想マシンの起動設定](./VB_settings.md)
+- [Linux(OS)イメージの取得](../Linux/get_OS_images.md)
+
 ## 参考
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)
+
