@@ -87,7 +87,7 @@ ubuntu20.04 server install imageのインストール方法について
 14. インストール完了->再起動<br>
   インストール処理が完了すると画面の一番下に[reboot now]表示される
   reboot nowで`Enter`を押す<br>
-  <img src="./images/ ubuntu_server13.PNG" width="50%">
+  <img src="./images/ubuntu_server13.PNG" width="50%">
 
 15. Fail unmounting \cdrom.エラー<br>
   仮想マシンでのインストールの場合このエラーが発生することがある<br>
