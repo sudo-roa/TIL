@@ -85,3 +85,6 @@ ubuntu20.04 server install imageのインストール方法について
 
 ## 次の項目
 [ubuntuの初期設定](./init_setting.md)
+
+## 参考
+- [ubuntu](https://ubuntu.com/server/docs/installation)
