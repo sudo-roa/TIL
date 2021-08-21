@@ -3,8 +3,8 @@
 VBインストール後の仮想マシン起動のための最小限の設定について
 
 ## 下準備
-
-[Linux(OS)イメージの取得](../Linux/get_OS_images.md)
+- [VirtualBoxのインストール](./VB_installation.md)
+- [Linux(OS)イメージの取得](../Linux/get_OS_images.md)
 
 ## 手順
 1. Oracle VM VirtualBoxの起動
