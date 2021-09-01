@@ -13,9 +13,14 @@ mindmapDiagram {
 * TIL(Today I Learned)
 
 ** C
+*** 基本事項
 *** 開発環境
 **** Linux向け<<rose>>
 *** コード例
+
+** Editor
+*** VisualStudioCode
+**** ショートカットキー(Mac) <<rose>>
 
 ** Elixir
 *** コード例
@@ -24,21 +29,38 @@ mindmapDiagram {
 
 ** Git
 *** Github
+**** Github_Pages
 **** 特別なファイル
 ***** README.mdに関して <<rose>>
 ***** .gitignoreに関して <<rose>>
 ***** Licenseに関して <<rose>>
 
 ** JavaScript
+*** 基本事項
+**** 比較演算 <<rose>>
+**** 関数<<rose>>
+**** オブジェクト <<rose>>
+**** 再代入 <<rose>>
+**** 繰り返し処理 <<rose>>
+**** 変数 <<rose>>
 *** DOM
 **** Document
 ***** HTML等の要素の操作 <<rose>>
 **** Element
+***** HTMLタグ要素の値の変更 <<rose>>
+***** HTMLタグ要素の値の確認 <<rose>>
+*** 標準組み込みオブジェクト
+**** Math <<rose>>
+**** Number <<rose>>
 
 ** Linux
+*** Centos
+*** OSイメージの取得 <<rose>>
 *** ubuntu20.04
+**** デスクトップイメージのインストール <<rose>>
 **** OSの確認 <<rose>>
 **** 最初の設定 <<rose>>
+**** サーバイメージのインストール <<rose>>
 
 ** PHP
 *** 基本事項
@@ -49,6 +71,8 @@ mindmapDiagram {
 **** 繰り返し構文 <<rose>>
 **** 文字列の出力 <<rose>>
 **** 時間 <<rose>>
+
+** プログラミング
 
 ** redmine
 
@@ -67,6 +91,8 @@ mindmapDiagram {
 **** progressbar <<green>>
 
 ** VirtualBox(仮想マシン)
+*** VirtualBoxのインストール <<rose>>
+*** VirtualBoxの設定 <<rose>>
 
 ** docker
 

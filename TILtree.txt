@@ -1,11 +1,18 @@
 ../../../
 ├── C
+│   ├── BasicMatters
+│   │   └── README.md
 │   ├── DevelopmentEnvironment
 │   │   ├── README.md
 │   │   └── forLinux.md
 │   ├── Examples
 │   │   └── README.md
 │   └── README.md
+├── Editor
+│   ├── README.md
+│   └── VisualStudioCode
+│       ├── README.md
+│       └── Shortcut_keys_for_Mac.md
 ├── Elixir
 │   ├── Examples
 │   │   ├── FizzBuzz.exs
@@ -14,6 +21,8 @@
 │   └── README.md
 ├── Git
 │   ├── Github
+│   │   ├── Github_Pages
+│   │   │   └── README.md
 │   │   ├── README.md
 │   │   └── special_files
 │   │       ├── README.md
@@ -21,21 +30,60 @@
 │   │       └── about_gitignore.md
 │   └── README.md
 ├── JavaScript
+│   ├── BasicMatters
+│   │   ├── README.md
+│   │   ├── comparison.md
+│   │   ├── function.md
+│   │   ├── object.md
+│   │   ├── reassignment.md
+│   │   ├── repetition.md
+│   │   └── variable.md
 │   ├── DOM
 │   │   ├── Document
-│   │   │   ├── README.md
-│   │   │   └── document_querySelector.md
-│   │   ├── Element
+│   │   │   ├── GetHtmlElement.md
 │   │   │   └── README.md
+│   │   ├── Element
+│   │   │   ├── README.md
+│   │   │   ├── changeElementValue.md
+│   │   │   └── checkElementValues.md
 │   │   └── README.md
-│   └── README.md
+│   ├── README.md
+│   └── StandardBuiltinObjects
+│       ├── Math.md
+│       └── Number.md
 ├── LICENSE
 ├── Linux
+│   ├── Centos
+│   │   └── README.md
 │   ├── README.md
-│   └── ubuntu20.04
+│   ├── get_OS_images.md
+│   ├── images
+│   │   ├── centos.PNG
+│   │   ├── debian.PNG
+│   │   ├── mint.PNG
+│   │   └── ubuntu.PNG
+│   └── ubuntu
+│       ├── GUI_image_installation.md
 │       ├── OS_check.md
 │       ├── README.md
-│       └── init_setting.md
+│       ├── images
+│       │   ├── ubuntu_server1.PNG
+│       │   ├── ubuntu_server10.PNG
+│       │   ├── ubuntu_server11.PNG
+│       │   ├── ubuntu_server12.PNG
+│       │   ├── ubuntu_server13.PNG
+│       │   ├── ubuntu_server14.PNG
+│       │   ├── ubuntu_server15.PNG
+│       │   ├── ubuntu_server2.PNG
+│       │   ├── ubuntu_server3.PNG
+│       │   ├── ubuntu_server4.PNG
+│       │   ├── ubuntu_server5.PNG
+│       │   ├── ubuntu_server6.PNG
+│       │   ├── ubuntu_server7.PNG
+│       │   ├── ubuntu_server8.PNG
+│       │   └── ubuntu_server9.PNG
+│       ├── init_setting.md
+│       └── server_image_installation.md
 ├── PHP
 │   ├── BasicMatters
 │   │   ├── Calculation.md
@@ -46,6 +94,10 @@
 │   │   ├── Repetition.md
 │   │   ├── StringOutput.md
 │   │   └── Time.md
+│   ├── Examples
+│   │   └── README.md
+│   └── README.md
+├── Programming
 │   └── README.md
 ├── README.md
 ├── Redmine
@@ -77,7 +129,30 @@
 │   └── README.md
 ├── TILtree.txt
 ├── VirtualBox
-│   └── README.md
+│   ├── README.md
+│   ├── VB_installation.md
+│   ├── VB_settings.md
+│   └── images
+│       ├── VB1.PNG
+│       ├── VB10.png
+│       ├── VB11.png
+│       ├── VB12.png
+│       ├── VB2.png
+│       ├── VB3.PNG
+│       ├── VB4.PNG
+│       ├── VB5.PNG
+│       ├── VB6.PNG
+│       ├── VB7.png
+│       ├── VB8.PNG
+│       ├── VB9.PNG
+│       ├── download1.PNG
+│       ├── download2.PNG
+│       ├── install1.PNG
+│       ├── install2.PNG
+│       ├── install3.PNG
+│       ├── install4.PNG
+│       ├── install5.PNG
+│       └── install6.PNG
 ├── docker
 │   └── README.md
 ├── paiza
@@ -87,23 +162,18 @@
 │   │       ├── README.md
 │   │       ├── question1
 │   │       │   ├── README.md
-│   │       │   ├── a.out
 │   │       │   └── question1.c
 │   │       ├── question2
 │   │       │   ├── README.md
-│   │       │   ├── a.out
 │   │       │   └── question2.c
 │   │       ├── question3
 │   │       │   ├── README.md
-│   │       │   ├── a.out
 │   │       │   └── question3.c
 │   │       ├── question4
 │   │       │   ├── README.md
-│   │       │   ├── a.out
 │   │       │   └── question4.c
 │   │       └── question5
 │   │           ├── README.md
-│   │           ├── a.out
 │   │           └── question5.c
 │   └── README.md
 ├── plantUML
@@ -130,4 +200,4 @@
             ├── sakuraVPS6.png
             └── sakuraVPS7.png
 
-38 directories, 92 files
+50 directories, 150 files

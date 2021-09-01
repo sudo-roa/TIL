@@ -13,9 +13,14 @@ mindmapDiagram {
 * TIL(Today I Learned)
 
 ** C
+*** BasicMatters
 *** DevelopmentEnvironment
 **** forLinux <<rose>>
 *** Examples
+
+** Editor
+*** VisualStudioCode
+**** Shortcut_keys_for_Mac <<rose>>
 
 ** Elixir
 *** Examples
@@ -24,21 +29,38 @@ mindmapDiagram {
 
 ** Git
 *** Github
+**** Github_Pages 
 **** special_files
 ***** aboutREADME <<rose>>
 ***** about.gitignore <<rose>>
 ***** aboutLicense <<rose>>
 
 ** JavaScript
+*** BasicMatters
+**** comparison <<rose>>
+**** function <<rose>>
+**** object <<rose>>
+**** reassignment <<rose>>
+**** repetition <<rose>>
+**** variable <<rose>>
 *** DOM
 **** Document
 ***** document_querySelector <<rose>>
 **** Element
+***** changeElementValue <<rose>>
+***** checkElementValues <<rose>>
+*** StandardBuiltinObjects
+**** Math <<rose>>
+**** Number <<rose>>
 
 ** Linux
+*** Centos
+*** get_OS_images <<rose>>
 *** ubuntu20.04
+**** GUI_image_installation <<rose>>
 **** OS_check <<rose>>
 **** init_setting <<rose>>
+**** server_image_installation <<rose>>
 
 ** PHP
 *** BasicMatters
@@ -49,6 +71,8 @@ mindmapDiagram {
 **** Repetition <<rose>>
 **** StringOutput <<rose>>
 **** Time <<rose>>
+
+** Programming
 
 ** Redmine
 
@@ -67,6 +91,8 @@ mindmapDiagram {
 **** generalClone <<green>>
 
 ** VirtualBox
+*** VB_installation <<rose>>
+*** VB_settings <<rose>>
 
 ** docker
 
