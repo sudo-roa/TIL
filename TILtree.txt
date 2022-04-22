@@ -1,18 +1,27 @@
 ../../../
 ├── C
 │   ├── BasicMatters
-│   │   └── README.md
+│   │   ├── README.md
+│   │   ├── comparison.md
+│   │   ├── reassignment.md
+│   │   ├── repetition.md
+│   │   └── variable.md
 │   ├── DevelopmentEnvironment
 │   │   ├── README.md
 │   │   └── forLinux.md
 │   ├── Examples
 │   │   └── README.md
 │   └── README.md
+├── CSS
+│   └── README.md
+├── Database
+│   └── README.md
 ├── Editor
 │   ├── README.md
 │   └── VisualStudioCode
 │       ├── README.md
-│       └── Shortcut_keys_for_Mac.md
+│       ├── Shortcut_keys_for_Mac.md
+│       └── Shortcut_keys_for_Windows.md
 ├── Elixir
 │   ├── Examples
 │   │   ├── FizzBuzz.exs
@@ -28,6 +37,8 @@
 │   │       ├── README.md
 │   │       ├── aboutREADME.md
 │   │       └── about_gitignore.md
+│   └── README.md
+├── HTML
 │   └── README.md
 ├── JavaScript
 │   ├── BasicMatters
@@ -53,6 +64,8 @@
 │       └── Number.md
 ├── LICENSE
 ├── Linux
+│   ├── ArchLinux
+│   │   └── README.md
 │   ├── Centos
 │   │   └── README.md
 │   ├── README.md
@@ -100,8 +113,11 @@
 ├── Programming
 │   └── README.md
 ├── README.md
-├── Redmine
+├── Raspberry_pi
 │   └── README.md
+├── Redmine
+│   ├── README.md
+│   └── add_themes.md
 ├── RepositoryStructure.png
 ├── RepositoryStructureJ.png
 ├── ShellScript
@@ -200,4 +216,4 @@
             ├── sakuraVPS6.png
             └── sakuraVPS7.png
 
-50 directories, 150 files
+55 directories, 161 files
