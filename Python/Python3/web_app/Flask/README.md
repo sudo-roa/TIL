@@ -11,3 +11,9 @@ pip install Flask
 set FLASK_APP=app.py
 flask run
 ```
+
+```python
+if __name__='__main__':
+	app.run(host='host name')
+```
+を追加することで、`python app.py`で実行することもできる。
