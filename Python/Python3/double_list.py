@@ -61,6 +61,7 @@ def main():
 
     d_list.print_doubleList()
     d_list.print_detail()
+    
 
 if __name__ == "__main__":
     main()
