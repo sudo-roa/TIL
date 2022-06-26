@@ -24,7 +24,7 @@ class Double_List:
                 print(i, "番地      :", current.data, "| prev =",current.prev.data, "    next =", current.next.data)
             current = current.next
             i += 1
-            
+
     def print_doubleList(self):
         print("(", self.num, "個のNode) " "[first -> last]" )
         current = self.head
@@ -32,6 +32,8 @@ class Double_List:
         while current is not None:
             print("[", current.data, "]", end="")
             if current==self.tail:
+                break
+            elif self.tail is None:
                 break
             print(" <-> ", end="")
             current = current.next
@@ -51,17 +53,95 @@ class Double_List:
             self.tail = new_node
             self.num += 1
 
+    def pos_add(self, pos, data):
+        new_node = Node(data)
+        # 半分より手前の番地に追加
+        if pos <= self.num/2:
+            current = self.head
+            # head
+            if pos == 0:
+                self.head = new_node
+                self.head.next = current
+                current.prev = self.head
+                self.num += 1
+            # error
+            elif pos < 0:
+                print(pos, "番地にノードを追加することはできません。")    
+            # head以外
+            else:
+                for i in range(pos):
+                    c_prev = current
+                    current = current.next
+                current.prev = new_node
+                current.prev.next = current
+                c_prev.next = new_node
+                c_prev.next.prev = c_prev
+                self.num += 1
+        # 半分より奥の番地に追加
+        else:
+            current = self.tail
+            # tail
+            if pos == self.num:
+                self.add(data)
+            # error
+            elif pos > self.num:
+                print("要素数", self.num, "なので", pos, "番地にノードを追加することはできません。")    
+            # tail以外
+            else:
+                for i in range(self.num - pos):
+                    c_next = current
+                    current = current.prev
+                current.next = new_node
+                current.next.prev = current
+                c_next.prev = new_node
+                c_next.prev.next = c_next
+                self.num += 1                
+
+    def rm_head(self):
+        print("remove head")
+        current = self.head
+        if self.head is not None:
+            if self.head.next is not None:
+                self.head = current.next
+                current.next.prev = None
+                self.num -= 1
+            else:
+                self.head = None
+                self.tail = None
+                self.num -= 1
+
+    def rm_tail(self):
+        print("remove tail")
+        current = self.tail
+        if self.tail is not None:
+            if self.tail.prev is not None:
+                self.tail = current.prev
+                current.prev.next = None
+                self.num -= 1
+            else:
+                self.head = None
+                self.tail = None
+                self.num -= 1
+
+    # def rm_node(self,pos):
+
 
 def main():
     print("run double_list.py")
-    # 空のdoublelist作成（インスタンス化）
     d_list = Double_List()
     for i in range(7):
         d_list.add("No:{:1d}".format(i))
 
-    d_list.print_doubleList()
     d_list.print_detail()
+<<<<<<< HEAD
     
+=======
+    d_list.rm_head()
+    d_list.rm_tail()
+    d_list.print_detail()
+    d_list.print_doubleList()
+
+>>>>>>> c23237fe858f2d619f056e010e8b504d7e7ad8a1
 
 if __name__ == "__main__":
     main()
