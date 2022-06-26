@@ -133,15 +133,6 @@ def main():
         d_list.add("No:{:1d}".format(i))
 
     d_list.print_detail()
-<<<<<<< HEAD
-    
-=======
-    d_list.rm_head()
-    d_list.rm_tail()
-    d_list.print_detail()
-    d_list.print_doubleList()
-
->>>>>>> c23237fe858f2d619f056e010e8b504d7e7ad8a1
 
 if __name__ == "__main__":
     main()
